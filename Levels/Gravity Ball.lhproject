@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AutoGenerateCode</key>
+	<true/>
+	<key>CodePathRelative</key>
+	<string>../</string>
+	<key>CustomScreenSize</key>
+	<string>{480, 320}</string>
+	<key>Engine</key>
+	<integer>6</integer>
+	<key>LastLevelLoaded</key>
+	<string>/Users/peter/Desktop/GravityBall/Levels/Level16.plhs</string>
+	<key>LevelsPathRelative</key>
+	<string>./</string>
+	<key>ProjectName</key>
+	<string>Gravity Ball</string>
+	<key>SHScenesPathRelative</key>
+	<string>../Images/</string>
+	<key>ScreenSize</key>
+	<integer>1</integer>
+	<key>Tags</key>
+	<array>
+		<string>DEFAULT</string>
+		<string>STRUCTURES</string>
+		<string>CIRCLE</string>
+	</array>
+</dict>
+</plist>

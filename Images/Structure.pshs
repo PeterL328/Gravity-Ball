@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANIMATION_INFO</key>
+	<array/>
+	<key>Author</key>
+	<string>Bogdan Vladu</string>
+	<key>BatchZOrder</key>
+	<integer>0</integer>
+	<key>CreatedWith</key>
+	<string>SpriteHelper</string>
+	<key>ImportedImages</key>
+	<array>
+		<string>/Users/peter/Desktop/Gravity Ball/Images/Structure.png</string>
+	</array>
+	<key>ImportedImages-HD</key>
+	<array>
+		<string>/Users/peter/Desktop/Gravity Ball/Images/Structure-hd.png</string>
+	</array>
+	<key>ImportedImages-HD_relative</key>
+	<array>
+		<string>Structure-hd.png</string>
+	</array>
+	<key>ImportedImages_relative</key>
+	<array>
+		<string>Structure.png</string>
+	</array>
+	<key>SPRITES_INFO</key>
+	<array>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{114, -80}</string>
+						<string>{128.5, -79.5}</string>
+						<string>{-23.000854, 80.924194}</string>
+						<string>{-24.5, 65}</string>
+					</array>
+					<array>
+						<string>{-24.5, 65}</string>
+						<string>{-23.000854, 80.924194}</string>
+						<string>{-127.00085, 80.424194}</string>
+						<string>{-127.5, 65}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{516, 321}</string>
+					<string>{487, 322}</string>
+					<string>{210, 32}</string>
+					<string>{4, 32}</string>
+					<string>{4.998291, 1.1516113}</string>
+					<string>{212.99829, 0.15161133}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 0}, {259, 162}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 0}, {518, 324}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0}, {0.64427859, 0.45762712}}</string>
+				<key>HD_ImageSize</key>
+				<string>{804, 708}</string>
+				<key>Image</key>
+				<string>Structure.png</string>
+				<key>Image-HD</key>
+				<string>Structure-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure-hd.png</string>
+				<key>Name</key>
+				<string>structure2</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{402, 354}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{-63.5, -58.75}</string>
+						<string>{-43, -37.25}</string>
+						<string>{-43, 39.25}</string>
+						<string>{-63.500854, 59.674194}</string>
+					</array>
+					<array>
+						<string>{64.5, -58.75}</string>
+						<string>{64.5, -37.25}</string>
+						<string>{-43, -37.25}</string>
+						<string>{-63.5, -58.75}</string>
+					</array>
+					<array>
+						<string>{64, 39.25}</string>
+						<string>{64.999146, 59.174194}</string>
+						<string>{-63.500854, 59.674194}</string>
+						<string>{-43, 39.25}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{783, 236}</string>
+					<string>{783, 193}</string>
+					<string>{568, 193}</string>
+					<string>{568, 40}</string>
+					<string>{782, 40}</string>
+					<string>{783.99829, 0.15161133}</string>
+					<string>{526.99829, -0.84838867}</string>
+					<string>{527, 236}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{262, 0}, {130, 118.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{524, 0}, {260, 237}}</string>
+				<key>FrameUV</key>
+				<string>{{0.65174127, 0}, {0.97512436, 0.33474576}}</string>
+				<key>HD_ImageSize</key>
+				<string>{804, 708}</string>
+				<key>Image</key>
+				<string>Structure.png</string>
+				<key>Image-HD</key>
+				<string>Structure-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure-hd.png</string>
+				<key>Name</key>
+				<string>structure3</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{402, 354}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{262, 121}, {139, 20}}</string>
+				<key>Frame-HD</key>
+				<string>{{524, 242}, {278, 40}}</string>
+				<key>FrameUV</key>
+				<string>{{0.65174127, 0.3418079}, {0.99751246, 0.39830509}}</string>
+				<key>HD_ImageSize</key>
+				<string>{804, 708}</string>
+				<key>Image</key>
+				<string>Structure.png</string>
+				<key>Image-HD</key>
+				<string>Structure-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure-hd.png</string>
+				<key>Name</key>
+				<string>structure1</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{402, 354}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{-95.75, -11.641785}</string>
+						<string>{-117.75, -33.641785}</string>
+						<string>{116.75, -34.141785}</string>
+						<string>{116.75, -11.641785}</string>
+					</array>
+					<array>
+						<string>{-117.75, 31.358215}</string>
+						<string>{-117.75, -33.641785}</string>
+						<string>{-95.75, -11.641785}</string>
+						<string>{-95.75, 31.358215}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{469, 419.28357}</string>
+					<string>{469, 464.28357}</string>
+					<string>{0, 463.28357}</string>
+					<string>{0, 333.28357}</string>
+					<string>{44, 333.28357}</string>
+					<string>{44, 419.28357}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 165}, {235.5, 66}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 330}, {471, 132}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0.46610171}, {0.58582091, 0.65254235}}</string>
+				<key>HD_ImageSize</key>
+				<string>{804, 708}</string>
+				<key>Image</key>
+				<string>Structure.png</string>
+				<key>Image-HD</key>
+				<string>Structure-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure-hd.png</string>
+				<key>Name</key>
+				<string>structure4</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{402, 354}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{238, 165}, {139, 20}}</string>
+				<key>Frame-HD</key>
+				<string>{{476, 330}, {278, 40}}</string>
+				<key>FrameUV</key>
+				<string>{{0.59203982, 0.46610171}, {0.93781096, 0.52259886}}</string>
+				<key>HD_ImageSize</key>
+				<string>{804, 708}</string>
+				<key>Image</key>
+				<string>Structure.png</string>
+				<key>Image-HD</key>
+				<string>Structure-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure-hd.png</string>
+				<key>Name</key>
+				<string>structure9</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{402, 354}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<true/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>2</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{238, 187}, {32, 33}}</string>
+				<key>Frame-HD</key>
+				<string>{{476, 374}, {64, 66}}</string>
+				<key>FrameUV</key>
+				<string>{{0.59203982, 0.52824861}, {0.67164177, 0.6214689}}</string>
+				<key>HD_ImageSize</key>
+				<string>{804, 708}</string>
+				<key>Image</key>
+				<string>Structure.png</string>
+				<key>Image-HD</key>
+				<string>Structure-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure-hd.png</string>
+				<key>Name</key>
+				<string>circle</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{402, 354}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<true/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{273, 187}, {21, 21}}</string>
+				<key>Frame-HD</key>
+				<string>{{546, 374}, {42, 42}}</string>
+				<key>FrameUV</key>
+				<string>{{0.67910451, 0.52824861}, {0.73134327, 0.58757061}}</string>
+				<key>HD_ImageSize</key>
+				<string>{804, 708}</string>
+				<key>Image</key>
+				<string>Structure.png</string>
+				<key>Image-HD</key>
+				<string>Structure-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure-hd.png</string>
+				<key>Name</key>
+				<string>structure8</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{402, 354}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{57.75, 28.349121}</string>
+						<string>{57.75, 47.849121}</string>
+						<string>{-57.75, 47.849121}</string>
+						<string>{-34.75, 28.349121}</string>
+					</array>
+					<array>
+						<string>{-57.25, -47.650879}</string>
+						<string>{-34.75, -47.150879}</string>
+						<string>{-34.75, 28.349121}</string>
+						<string>{-57.75, 47.849121}</string>
+					</array>
+					<array>
+						<string>{16.25, -47.150879}</string>
+						<string>{42.25, -47.650879}</string>
+						<string>{42.25, 28.349121}</string>
+						<string>{16.25, 28.349121}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>2</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{233, 470.30176}</string>
+					<string>{233, 509.30176}</string>
+					<string>{202, 509.30176}</string>
+					<string>{202, 661.30176}</string>
+					<string>{150, 660.30176}</string>
+					<string>{150, 509.30176}</string>
+					<string>{48, 509.30176}</string>
+					<string>{48, 660.30176}</string>
+					<string>{3, 661.30176}</string>
+					<string>{2, 470.30176}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 233}, {117.5, 100}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 466}, {235, 200}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0.6581921}, {0.29228857, 0.94067794}}</string>
+				<key>HD_ImageSize</key>
+				<string>{804, 708}</string>
+				<key>Image</key>
+				<string>Structure.png</string>
+				<key>Image-HD</key>
+				<string>Structure-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure-hd.png</string>
+				<key>Name</key>
+				<string>structure5</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{402, 354}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array>
+					<array>
+						<string>{-131, 4.1082153}</string>
+						<string>{-95.5, -20.391785}</string>
+						<string>{-83, -3.8917847}</string>
+						<string>{-118, 20.108215}</string>
+					</array>
+					<array>
+						<string>{94, -20.391785}</string>
+						<string>{130, 4.1082153}</string>
+						<string>{119, 20.108215}</string>
+						<string>{83, -3.8917847}</string>
+					</array>
+					<array>
+						<string>{-83, -3.8917847}</string>
+						<string>{-95.5, -20.391785}</string>
+						<string>{94, -20.391785}</string>
+						<string>{83, -3.8917847}</string>
+					</array>
+				</array>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array>
+					<string>{739, 468.28357}</string>
+					<string>{761, 500.28357}</string>
+					<string>{689, 549.28357}</string>
+					<string>{310, 549.28357}</string>
+					<string>{239, 500.28357}</string>
+					<string>{265, 468.28357}</string>
+					<string>{335, 516.28357}</string>
+					<string>{667, 516.28357}</string>
+				</array>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{120, 233}, {261, 42.5}}</string>
+				<key>Frame-HD</key>
+				<string>{{240, 466}, {522, 85}}</string>
+				<key>FrameUV</key>
+				<string>{{0.29850745, 0.6581921}, {0.94776118, 0.77824861}}</string>
+				<key>HD_ImageSize</key>
+				<string>{804, 708}</string>
+				<key>Image</key>
+				<string>Structure.png</string>
+				<key>Image-HD</key>
+				<string>Structure-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure-hd.png</string>
+				<key>Name</key>
+				<string>structure7</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{402, 354}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>PhysicProperties</key>
+			<dict>
+				<key>AngularDamping</key>
+				<real>0.0</real>
+				<key>AngularVelocity</key>
+				<real>0.0</real>
+				<key>CanSleep</key>
+				<true/>
+				<key>Category</key>
+				<integer>1</integer>
+				<key>Density</key>
+				<real>0.20000000298023224</real>
+				<key>Fixtures</key>
+				<array/>
+				<key>Friction</key>
+				<real>0.20000000298023224</real>
+				<key>Group</key>
+				<integer>0</integer>
+				<key>IsBullet</key>
+				<false/>
+				<key>IsCircle</key>
+				<false/>
+				<key>IsFixedRot</key>
+				<false/>
+				<key>IsSensor</key>
+				<false/>
+				<key>LinearDamping</key>
+				<real>0.0</real>
+				<key>LinearVelocityX</key>
+				<real>0.0</real>
+				<key>LinearVelocityY</key>
+				<real>0.0</real>
+				<key>Mask</key>
+				<integer>65535</integer>
+				<key>PhysicType</key>
+				<integer>0</integer>
+				<key>Restitution</key>
+				<real>0.20000000298023224</real>
+				<key>SHHolesPoints</key>
+				<array/>
+				<key>SHShapePoints</key>
+				<array/>
+				<key>ShapeBorderH</key>
+				<integer>0</integer>
+				<key>ShapeBorderW</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetX</key>
+				<integer>0</integer>
+				<key>ShapePositionOffsetY</key>
+				<integer>0</integer>
+			</dict>
+			<key>TextureProperties</key>
+			<dict>
+				<key>Color</key>
+				<string>{{1, 1}, {1, 0}}</string>
+				<key>Frame</key>
+				<string>{{0, 336}, {400, 18}}</string>
+				<key>Frame-HD</key>
+				<string>{{0, 672}, {800, 36}}</string>
+				<key>FrameUV</key>
+				<string>{{0, 0.94915253}, {0.99502486, 1}}</string>
+				<key>HD_ImageSize</key>
+				<string>{804, 708}</string>
+				<key>Image</key>
+				<string>Structure.png</string>
+				<key>Image-HD</key>
+				<string>Structure-hd.png</string>
+				<key>ImageURL</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure.png</string>
+				<key>ImageURL-HD</key>
+				<string>/Users/peter/Desktop/Gravity Ball/Images/Structure-hd.png</string>
+				<key>Name</key>
+				<string>structure6</string>
+				<key>Opacity</key>
+				<real>1</real>
+				<key>SD_ImageSize</key>
+				<string>{402, 354}</string>
+				<key>Scale</key>
+				<string>{1, 1}</string>
+				<key>ZOrder</key>
+				<integer>0</integer>
+			</dict>
+		</dict>
+	</array>
+	<key>ScenePreference</key>
+	<dict>
+		<key>BackgroundColor</key>
+		<string>{{0.89399999, 0.89399999}, {0.89399999, 1}}</string>
+		<key>GridSize</key>
+		<integer>32</integer>
+	</dict>
+	<key>Version</key>
+	<string>1.7.5</string>
+</dict>
+</plist>

@@ -1,0 +1,36 @@
+-- Supported values for orientation:
+-- portrait, portraitUpsideDown, landscapeLeft, landscapeRight
+
+settings = {
+	
+	orientation = {
+		default = "landscapeRight",
+		supported = { "landscapeRight", }
+	},
+	
+	iphone = {
+			
+			
+			
+			 components = { "openfeint" },
+			 
+			 
+		plist = {
+			UIStatusBarHidden = true,
+			UIPrerenderedIcon = true, -- set to false for "shine" overlay
+			UIApplicationExitsOnSuspend = false,
+			        UIAppFonts = 
+                        {
+                                "FOO.ttf"
+                        }        
+			             
+		},
+	},
+	
+	--[[ For Android:
+	
+	androidPermissions = {
+  		"android.permission.INTERNET",
+  	},
+	]]--
+}
